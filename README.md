@@ -37,17 +37,8 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulfaizalrahman&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulfaizalrahman&layout=compact&theme=radical" height="180"/>
-</div>
-
----
-
 ## 📫 Connect With Me
 
-- 📧 Email: faizalrahmanaiml@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/abdulfaizalrahman](https://linkedin.com/in/abdulfaizalrahman)  
+- 📧 Email: abdulfaizal18042006@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/abdul-faizal](https://www.linkedin.com/in/abdul-faizal-rahman-a-212114313/)  
 
